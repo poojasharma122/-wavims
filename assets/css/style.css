@@ -439,7 +439,7 @@ h2.title3 {
     font-size: 22px;
     font-weight: 500;
     line-height: 40px;
-    padding-top: 10px;
+    /* padding-top: 10px; */
 }
 
 .why-choose-text:hover {
@@ -1113,7 +1113,7 @@ section.travel-tips::after {
 .why-choose-text svg {
     height: 70px;
     width: 70px;
-    /* margin-bottom: 20px; */
+    margin-bottom: 20px; 
 }
 
 .why-choose-text:hover svg {
@@ -1281,6 +1281,14 @@ section.contact-form {
 
 .main-scroll{
     overflow: hidden;
+}
+
+.after-banner-text p a {
+    color: ivory;
+}
+
+.email-detail p a {
+    color: #0a0a0a;
 }
 
 
