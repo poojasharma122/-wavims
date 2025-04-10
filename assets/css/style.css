@@ -1300,6 +1300,14 @@ section.contact-form {
     color: #e1bd85;
 }
 
+.feature-text h5 a {
+    color: #000;
+}
+
+.feature-text h5 a:hover {
+    color: #e1bd85;
+}
+
 
 
 
