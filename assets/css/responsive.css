@@ -212,3 +212,14 @@
         padding: 20px 40px 20px 40px;
     }
 }
+
+@media(max-width:375px){
+    h2.title2 {
+        font-size: 31px;
+        max-width: 319px;
+    }
+    .btn {
+        padding: 10px 10px;
+        font-size: 15px;
+    }
+}
