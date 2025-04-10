@@ -1292,6 +1292,14 @@ section.contact-form {
     color: #0a0a0a;
 }
 
+.who-we-are-heading p a {
+    color: #000;
+}
+
+.who-we-are-heading p a:hover {
+    color: #e1bd85;
+}
+
 
 
 
