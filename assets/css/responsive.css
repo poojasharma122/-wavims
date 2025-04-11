@@ -222,6 +222,12 @@
     .btn {
         padding: 12px 18px;
     }
+    .content-column .inner-column {
+        padding: 20px;
+    }
+    .hotels-inner-card.second .content-column .inner-column {
+        padding: 20px;
+    }
 }
 
 @media(max-width:375px){
@@ -242,5 +248,13 @@
     .personal-page-content h2 {
         font-size: 26px;
         line-height: 1.2;
+    }
+    .sec-title a h4 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .hotels-inner-card .second .sec-title a h4 {
+        font-size: 22px !important;
+        line-height: 30px !important;
     }
 }
