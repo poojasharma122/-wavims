@@ -76,7 +76,7 @@ header.sticky {
 .navbar img {
     max-width: 9.5rem;
     justify-self: start;
-    margin-left: 1.25rem;
+    /* margin-left: 1.25rem; */
 }
 
 .navbar ul {
@@ -1310,13 +1310,13 @@ section.contact-form {
 }
 
 
-.logo a {
-    background-image: url(../images/site-logo);
+.logo  {
+    background-image: url(../images/site-logo.png);
     background-position: left;
     background-size: contain;
     background-repeat: no-repeat;
-    width: 50px;
-    height: 50px;
+    width: 200px;
+    height: 43px;
 }
 
 
