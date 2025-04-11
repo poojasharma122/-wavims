@@ -182,6 +182,13 @@
     .navbar {
         grid-template-columns: 1fr 1fr;
     }
+    
+    .faq-section .wrapper {
+        width: 100%;
+    }
+    .high-stakes-banner {
+        height: 20.625rem;
+    }
 }
 
 
@@ -191,8 +198,9 @@
         padding-top: 40px;
     }
     .after-banner-text {
-        padding: 20px 40px 21px 40px;
+        padding: 20px;
     }
+    
     h2.title {
         margin-bottom: 15px !important;
     }
